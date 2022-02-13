@@ -1,4 +1,5 @@
 <h2> Hey there! I'm Siddharth. 
+  <h2>I belive, a perfect cup of coffee can be the ultimate solution for any stress.</h2>
   
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
