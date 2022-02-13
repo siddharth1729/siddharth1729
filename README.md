@@ -1,5 +1,5 @@
 <h1 align="center"> Hey there! I'm Siddharth. </h1>
-  <h2>I belive, a perfect cup of coffee can be the ultimate solution for any stress.</h2>
+  <h2 align="center">I belive, a perfect cup of coffee can be the ultimate solution for any stress.</h2>
   
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
@@ -11,7 +11,7 @@
 - 💼 &nbsp; Mobile Application  developer and front-end web developer.
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
 - ✍️ &nbsp; Watching movies and capturing blury pictures as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+
 
 <h3>🛠 Tech Stack</h3>
 
