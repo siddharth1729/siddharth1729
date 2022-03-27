@@ -1,5 +1,5 @@
 <h1 color="red" align="center"> Hey there! I'm Siddharth </h1>
-  <h2 align="center">I belive, a perfect cup of tea can be the ultimate solution for any stress</h2>
+  <h2 align="center">I belive, a perfect cup of tea can be the ultimate solution for any problem</h2>
   
   <img align="right" alt="GIF" src="/img.jpeg" width="500"/>
 
