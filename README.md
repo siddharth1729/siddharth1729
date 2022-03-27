@@ -9,16 +9,16 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 💼 &nbsp; Mobile Application  developer and front-end web developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching movies and capturing blury pictures as hobbies/side hustles.
+- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence and Backend.
+- ✍️ &nbsp; Watching movies and capturing blury pictures and travelling as hobbies/side hustles.
 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Dart | Java | C++  
+- 💻 &nbsp; Kotlin | Python | Dart | Java | C++  
 - 🌐 &nbsp; Android |Kotlin | flutter | HTML | CSS | JavaScript | React 
 - 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Linux | Android Studio | PyCharm | Visual Studio code | Eclipse | Git
+- 🔧 &nbsp; Linux | Android Studio | jupyter notebook | Visual Studio code | vim | Git
 
 
 <br>
