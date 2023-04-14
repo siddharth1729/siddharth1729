@@ -4,6 +4,6 @@
 <span style="color: #008000; text-decoration-color: #008000">║</span> technologies.                                            <span style="color: #008000; text-decoration-color: #008000">║</span>
 <span style="color: #008000; text-decoration-color: #008000">║</span> I&#x27;m currently learning Backend tech and will expand this <span style="color: #008000; text-decoration-color: #008000">║</span>
 <span style="color: #008000; text-decoration-color: #008000">║</span> to other languages as well                               <span style="color: #008000; text-decoration-color: #008000">║</span>
-<span style="color: #008000; text-decoration-color: #008000">║</span> To know more about me visit https://thelegion.tech                            <span style="color: #008000; text-decoration-color: #008000">║</span>
+<span style="color: #008000; text-decoration-color: #008000">║</span> To know more about me visit https://thelegion.tech       <span style="color: #008000; text-decoration-color: #008000">║</span>
 <span style="color: #008000; text-decoration-color: #008000">╚══════════════════════════════════════════════════════════╝</span>
 </pre>
