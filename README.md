@@ -7,3 +7,6 @@
 <span style="color: #008000; text-decoration-color: #008000">║</span> To know more about me visit https://thelegion.tech       <span style="color: #008000; text-decoration-color: #008000">║</span>
 <span style="color: #008000; text-decoration-color: #008000">╚══════════════════════════════════════════════════════════╝</span>
 </pre>
+
+
+[![](https://ossrank.com/widget/877087)](https://ossrank.com/c/877087-siddharth-sabron)
