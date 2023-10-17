@@ -1,12 +1,23 @@
-<pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace"><span style="color: #008000; text-decoration-color: #008000">╔════════════════════ </span><span style="color: #008000; text-decoration-color: #008000; font-weight: bold">Hi there fellas!</span><span style="color: #008000; text-decoration-color: #008000"> ════════════════════╗</span>
-<span style="color: #008000; text-decoration-color: #008000">║</span> I&#x27;m a Programmer                                         <span style="color: #008000; text-decoration-color: #008000">║</span>
-<span style="color: #008000; text-decoration-color: #008000">║</span> I love sport programming and tinkering with different    <span style="color: #008000; text-decoration-color: #008000">║</span>
-<span style="color: #008000; text-decoration-color: #008000">║</span> technologies.                                            <span style="color: #008000; text-decoration-color: #008000">║</span>
-<span style="color: #008000; text-decoration-color: #008000">║</span> I&#x27;m currently learning Backend tech and will expand this <span style="color: #008000; text-decoration-color: #008000">║</span>
-<span style="color: #008000; text-decoration-color: #008000">║</span> to other languages as well                               <span style="color: #008000; text-decoration-color: #008000">║</span>
-<span style="color: #008000; text-decoration-color: #008000">║</span> To know more about me visit https://thelegion.tech       <span style="color: #008000; text-decoration-color: #008000">║</span>
-<span style="color: #008000; text-decoration-color: #008000">╚══════════════════════════════════════════════════════════╝</span>
-</pre>
+## Hi, I am Siddharth 👋🏻
 
+I am a Software Engineer based in India. 
 
-[![](https://ossrank.com/widget/877087)](https://ossrank.com/c/877087-siddharth-sabron)
+- I started off my career as a Software Engineer and have experience working
+  with backend, infrastructure and performance issues.
+- I have experience in working with Nodejs, TypeScript, Arc.codes,
+  Java, Rust, Nginx, GitHub Action, AWS services and Docker.
+- Along the way, I developed an interest for lower level systems such as
+  database system, storage engines, protocols, networking, observability and etc.
+- Hence, I've decided to pivot my careers towards working on lower level
+  systems.
+
+To make that a reality, I spend most of my time reading reaserch papers, courses and reading codes
+to become a better programmer along with its community.
+
+- Learning about Rust, database system, network programming, distributed system and exploring the unknowns.
+
+Outside of programming, I enjoy writing and sharing what I learned. You
+can find out more about my writings at my [website][0].
+
+[0]: https://thelegion.tech
+[1]: https://medium.com/@siddharth.sabron
