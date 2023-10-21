@@ -14,7 +14,7 @@ I am a Software Engineer based in India.
 To make that a reality, I spend most of my time reading reaserch papers, courses and reading codes
 to become a better programmer along with its community.
 
-- Learning about Rust, database system,  storage engines, network programming, distributed system and exploring the unknowns.
+- Currently learning about Rust, database system,  storage engines, network programming, distributed system and exploring the unknowns.
 
 Outside of programming, I enjoy writing and sharing what I learned. You
 can find out more about my writings at my [website][0].
