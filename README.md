@@ -1,6 +1,6 @@
-## Hi, I am Siddharth 👋🏻
+# Hi, I am Siddharth 👋🏻
 
-I am a Software Engineer based in India. 
+I am a Software Engineer based in India.
 
 - I started off my career as a Software Engineer and have experience working
   with backend, infrastructure and performance issues.
@@ -15,6 +15,10 @@ To make that a reality, I spend most of my time reading reaserch papers, courses
 to become a better programmer along with its community.
 
 - Currently learning about Rust, database system,  storage engines, network programming, distributed system and exploring the unknowns.
+- Writing a [RedRusDB](https://github.com/RedRusDB/redrus) in Rust from scratch.
+- Writing a [Non-Blocking Concurrent Data Structures](https://github.com/siddharth1729/nonblocking_datastructures) like [ngrok][1] in Rust.
+- Writing about how I implement a database system in Rust [RedRusDB Doc](https://redrusdb.github.io/.github).
+- Learning about Rust, database system, network programming, distributed system and exploring the unknowns.
 
 Outside of programming, I enjoy writing and sharing what I learned. You
 can find out more about my writings at my [website][0].
