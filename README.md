@@ -16,7 +16,7 @@ to become a better programmer along with its community.
 
 - Currently learning about Rust, database system,  storage engines, network programming, distributed system and exploring the unknowns.
 - Writing a [RedRusDB](https://github.com/RedRusDB/redrus) in Rust from scratch.
-- Writing a [Non-Blocking Concurrent Data Structures](https://github.com/siddharth1729/nonblocking_datastructures) like [ngrok][1] in Rust.
+- Writing a [Non-Blocking Concurrent Data Structures](https://github.com/siddharth1729/nonblocking_datastructures) in Rust.
 - Writing about how I implement a database system in Rust [RedRusDB Doc](https://redrusdb.github.io/.github).
 - Learning about Rust, database system, network programming, distributed system and exploring the unknowns.
 
