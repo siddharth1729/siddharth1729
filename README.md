@@ -1,4 +1,5 @@
 # Hi, I am Siddharth 👋🏻
+![](https://komarev.com/ghpvc/?username=siddharth1729&style=plastic)
 
 I am a Software Engineer based in India.
 
