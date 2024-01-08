@@ -9,7 +9,7 @@ I am a Software Engineer based in India.
   Java, Rust, Nginx, PostgreSql,  GitHub Action, AWS services and Docker.
 - Along the way, I developed an interest for lower level systems such as
   database system, storage engines, protocols, networking, observability and etc.
-- Hence, I've decided to pivot my careers towards working on lower level
+- Hence, I've decided to pivot my careers towards working on parallel computing, performance computing, storage engine, lower level
   systems.
 
 To make that a reality, I spend most of my time reading reaserch papers, courses and reading codes
