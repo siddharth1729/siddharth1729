@@ -25,6 +25,7 @@ You can guss what am doing by my discord activity
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/596025752776998912?bg=000000&idleMessage=Might%20be%20sleeping&showDisplayName=true)](https://discord.com/users/596025752776998912)
 
+![My Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=1pdph0wjr3zfk7ku0kcratlt3&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=1pdph0wjr3zfk7ku0kcratlt3&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=549c8a&bar_color_cover=true)
 
 Outside of programming, I enjoy writing and sharing what I learned. You
 can find out more about my writings at my [website][0].
