@@ -21,10 +21,6 @@ to become a better programmer along with its community.
 - Writing about how I implement a database system in Rust [RedRusDB Doc](https://redrusdb.github.io/.github).
 - Learning about Rust, database system, network programming, distributed system and exploring the unknowns.
 
-You can guss what am doing by my discord activity 
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/596025752776998912?bg=000000&idleMessage=Might%20be%20sleeping&showDisplayName=true)](https://discord.com/users/596025752776998912)
-
 
 Outside of programming, I enjoy writing and sharing what I learned. You
 can find out more about my writings at my [website][0].
