@@ -13,7 +13,7 @@ I am a Software Engineer based in India.
   systems.
 
 To make that a reality, I spend most of my time reading reaserch papers, courses and reading codes
-to become a better programmer along with its community.
+to become a better programmer.
 
 - Currently learning about Rust, database system,  storage engines, network programming, distributed system and exploring the unknowns.
 - Writing a [RedRusDB](https://github.com/RedRusDB/redrus) in Rust from scratch. (Currently in private)
