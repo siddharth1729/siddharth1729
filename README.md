@@ -15,11 +15,13 @@ I am a Software Engineer based in India.
 To make that a reality, I spend most of my time reading reaserch papers, courses and reading codes
 to become a better programmer.
 
+<!-- 
 - Currently learning about Rust, database system,  storage engines, network programming, distributed system and exploring the unknowns.
 - Writing a [RedRusDB](https://github.com/RedRusDB/redrus) in Rust from scratch. (Currently in private)
 - Writing a [Non-Blocking Concurrent Data Structures](https://github.com/siddharth1729/nonblocking_datastructures) in Rust. (Currently in private)
 - Writing about how I implement a database system in Rust [RedRusDB Doc](https://redrusdb.github.io/.github).
-- Learning about Rust, database system, network programming, distributed system and exploring the unknowns.
+- Learning about Rust, database system, network programming, distributed system and exploring the unknowns. -->
+
 
 
 Outside of programming, I enjoy writing and sharing what I learned. You
