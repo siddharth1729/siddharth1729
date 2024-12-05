@@ -5,8 +5,8 @@ I am a Software Engineer based in India.
 
 - I started off my career as a Software Engineer and have experience working
   with backend, infrastructure and performance issues.
-- I have experience in working with Nodejs, TypeScript, Arc.codes,
-  Java, Rust, Nginx, PostgreSql,  GitHub Action, AWS services and Docker.
+- I have experience in working with `Nodejs`, `TypeScript`, `Arc.codes`,
+  `Java`, `Rust`, `Nginx`, `PostgreSql`,  `GitHub Action`, `AWS services` and `Docker`.
 - Along the way, I developed an interest for lower level systems such as
   database system, storage engines, protocols, networking, observability and etc.
 - Hence, I've decided to pivot my careers towards working on parallel computing, performance computing, storage engine, lower level
