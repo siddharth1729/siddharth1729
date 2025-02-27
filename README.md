@@ -27,5 +27,5 @@ to become a better programmer.
 Outside of programming, I enjoy writing and sharing what I learned. You
 can find out more about my writings at my [website][0].
 
-[0]: https://siddharthsabron.in/
-[1]: https://medium.com/@siddharth.sabron
+[0]: https://siddharthsabron.in/blog
+[1]: https://medium.com/@siddharth.sabron/
