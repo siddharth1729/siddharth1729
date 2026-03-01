@@ -6,13 +6,12 @@ I am a **Senior Software Engineer** based in India, specializing in backend infr
 While I have extensive experience building scalable microservices, my active focus is on low-level systems programming. I care about how data moves at the hardware level, moving beyond high-level abstractions to master storage engines, concurrent data structures, and network protocols.
 
 ### 🛠️ Tech Stack
-- **Languages:** Java, Rust, TypeScript, Node.js
-- **Databases:** PostgreSQL, ScyllaDB, DynamoDB, Cassandra
+- **Languages:** Java, TypeScript, Node.js
+- **Databases:** MySql, ScyllaDB, DynamoDB, Cassandra
 - **Messaging & Infra:** Apache Kafka, Redis, WebSockets, OCPP, AWS, Docker
 
 ### ⚙️ What I'm Building & Studying
 - **High-Performance Architecture:** Building wait-free concurrent data structures and multi-threaded logging systems (like `Legion`).
-- **Database Internals:** Writing `RedRusDB`—a custom database system from scratch in Rust (Currently in stealth).
 - **Deep Research:** Actively studying distributed consensus, Linux kernel memory barriers, and formal verification using Lean.
 
 ### ✍️ Writing
