@@ -1,31 +1,22 @@
-# Hi, I am Siddharth 👋🏻
+# Hi, I'm Siddharth 👋
 ![](https://komarev.com/ghpvc/?username=siddharth1729&style=plastic)
 
-I am a Software Engineer based in India.
+I am a **Senior Software Engineer** based in India, specializing in backend infrastructure, distributed systems, and database internals.
 
-- I started off my career as a Software Engineer and have experience working
-  with backend, infrastructure and performance issues.
-- I have experience in working with `Nodejs`, `TypeScript`, `Arc.codes`,
-  `Java`, `Spring-Boot`, `DynamoDB` `Rust`, `Nginx`, `PostgreSql`, `AWS services` and `Docker`.
-- Along the way, I developed an interest for lower level systems such as
-  database system, storage engines, protocols, networking, observability and etc.
-- Hence, I've decided to pivot my careers towards working on parallel computing, performance computing, storage engine, lower level
-  systems.
+While I have extensive experience building scalable microservices, my active focus is on low-level systems programming. I care about how data moves at the hardware level, moving beyond high-level abstractions to master storage engines, concurrent data structures, and network protocols.
 
-To make that a reality, I spend most of my time reading reaserch papers, courses and reading codes
-to become a better programmer.
+### 🛠️ Tech Stack
+- **Languages:** Java, Rust, TypeScript, Node.js
+- **Databases:** PostgreSQL, ScyllaDB, DynamoDB, Cassandra
+- **Messaging & Infra:** Apache Kafka, Redis, WebSockets, OCPP, AWS, Docker
 
-<!-- 
-- Currently learning about Rust, database system,  storage engines, network programming, distributed system and exploring the unknowns.
-- Writing a [RedRusDB](https://github.com/RedRusDB/redrus) in Rust from scratch. (Currently in private)
-- Writing a [Non-Blocking Concurrent Data Structures](https://github.com/siddharth1729/nonblocking_datastructures) in Rust. (Currently in private)
-- Writing about how I implement a database system in Rust [RedRusDB Doc](https://redrusdb.github.io/.github).
-- Learning about Rust, database system, network programming, distributed system and exploring the unknowns. -->
+### ⚙️ What I'm Building & Studying
+- **High-Performance Architecture:** Building wait-free concurrent data structures and multi-threaded logging systems (like `Legion`).
+- **Database Internals:** Writing `RedRusDB`—a custom database system from scratch in Rust (Currently in stealth).
+- **Deep Research:** Actively studying distributed consensus, Linux kernel memory barriers, and formal verification using Lean.
 
+### ✍️ Writing
+I externalize my working memory by writing highly technical deep-dives on systems architecture, memory management, and scaling challenges.
 
-
-Outside of programming, I enjoy writing and sharing what I learned. You
-can find out more about my writings at my [website][0].
-
-[0]: https://siddharthsabron.in/blog
-[1]: https://medium.com/@siddharth.sabron/
+- 🌐 [Read my blog at siddharthsabron.in](https://siddharthsabron.in/blog)
+- 📝 [Follow my deep-dives on Medium](https://medium.com/@siddharth.sabron)
