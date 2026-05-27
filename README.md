@@ -1,21 +1,17 @@
-# Hi, I'm Siddharth 👋
-![](https://komarev.com/ghpvc/?username=siddharth1729&style=plastic)
+## Siddharth
 
-I am a **Senior Software Engineer** based in India, specializing in backend infrastructure, distributed systems, and database internals.
+<!-- ########################################################################################## -->
 
-While I have extensive experience building scalable microservices, my active focus is on low-level systems programming. I care about how data moves at the hardware level, moving beyond high-level abstractions to master storage engines, concurrent data structures, and network protocols.
+Hi, I'm Siddharth. I write software. I genuinely love building it, particularly the backend and infrastructure layers. Over the past three years as a professional software engineer, I've been lucky to build and scale a few of these systems from the ground up to production mostly as an individual contributor.
 
-### 🛠️ Tech Stack
-- **Languages:** Java, TypeScript, Node.js
-- **Databases:** MySql, ScyllaDB, DynamoDB, Cassandra
-- **Messaging & Infra:** Apache Kafka, Redis, WebSockets, OCPP, AWS, Docker
+My background includes backend development, infrastructure optimization, and performance tuning with technologies like `Java` `Spring-boot` `Node.js` `Kafka` `TypeScript` `Nginx` `PostgreSQL` `MySQL` `AWS-Services` `SQS` `SNS` `DynamoDB`.
 
-### ⚙️ What I'm Building & Studying
-- **High-Performance Architecture:** Building wait-free concurrent data structures and multi-threaded logging systems (like `Legion`).
-- **Deep Research:** Actively studying distributed consensus, Linux kernel memory barriers, and formal verification using Lean.
+You can get my resume here [`resume`](https://drive.google.com/file/d/1yw3_jRLF35tuNgAvttk0lhKB570O4ITn/view?usp=sharing).
 
-### ✍️ Writing
-I externalize my working memory by writing highly technical deep-dives on systems architecture, memory management, and scaling challenges.
+I share my insights and technical deep-dives on my blogs, if you happen to read those and look forward to my writings, thank you, and stay tuned:
 
-- 🌐 [Read my blog at siddharthsabron.in](https://siddharthsabron.in/blog)
-- 📝 [Follow my deep-dives on Medium](https://medium.com/@siddharth.sabron)
+* [Blog Site](https://siddharthsabron.in/blog/)
+* [Medium]( https://medium.com/@siddharth.sabron)
+
+Outside the terminal, my drive to undestand things doesn't stop. I spend my time traveling, reading philosophy, studying history, geopolitics, and math. I believe that the relentless pursuit of understanding the world around us is the core trait of being human race it's how we evolved. I also like to capture the physical world when I'm not thinking about the digital one. You can find my casual photography 
+on [Unsplash](https://unsplash.com/@sid1729).
